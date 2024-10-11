@@ -1,0 +1,41 @@
+few examples of data structures and algorithms in different programming languages:
+
+Data Structures:
+Arrays
+
+Python: Implementation of dynamic arrays using list operations.
+C++: Static and dynamic array implementation.
+Java: Using ArrayList and regular arrays.
+Linked List
+
+Python: Singly and Doubly Linked Lists implementation with insertion, deletion, and traversal.
+C++: Custom Linked List class using pointers.
+Java: Implementing a LinkedList class with all basic operations.
+Binary Search Tree (BST)
+
+Python: Insertion, search, and traversal algorithms.
+C++: Recursive and iterative implementations of BST operations.
+Java: Implementing a generic BST class.
+Graphs
+
+Python: Graph traversal algorithms (BFS and DFS) using adjacency list representation.
+C++: Graph class with adjacency matrix and list implementation.
+Java: BFS and DFS using graph libraries.
+Algorithms:
+Sorting Algorithms
+
+Bubble Sort: Implemented in Python, C++, and Java.
+Merge Sort: Efficient recursive solution in Python and C++.
+Quick Sort: Implemented in Python and Java, optimized using median-of-three pivot selection.
+Searching Algorithms
+
+Binary Search: Python, C++, and Java implementations, both recursive and iterative.
+Linear Search: Basic search algorithm implemented in multiple languages.
+Dynamic Programming
+
+Fibonacci Sequence: Memoization and bottom-up approach in Python.
+Knapsack Problem: Solved using dynamic programming in Python and C++.
+Greedy Algorithms
+
+Activity Selection: Python implementation for selecting the maximum number of non-overlapping activities.
+Huffman Coding: C++ and Java implementations for data compression.
